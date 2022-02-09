@@ -11,8 +11,8 @@ const Hero = () => {
                         Coming Soon
                     </h1>
                     <p className="mb-5">
-                        We're currently working on creating a new plataform and plugin Wodpress
-                        We'll be lauching soon, please subcribe to be notified.
+                        We&apos;re currently working on creating a new plataform and plugin Wodpress
+                        We&apos;ll be lauching soon, please subcribe to be notified.
                     </p>
                     <Subscriber />
                 </div>

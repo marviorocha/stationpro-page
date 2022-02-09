@@ -15,6 +15,7 @@ const Footer = () => {
       <a
         href="https://www.marviorocha.com"
         target="_blank"
+        rel="noreferrer"
         title='Marvio Rocha - Developer'
         className='text-sm'
       >
