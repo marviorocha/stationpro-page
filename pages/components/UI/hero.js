@@ -18,7 +18,7 @@ const Hero = () => {
                 </div>
             </div>
 
-            <div className="mt-80 z-10">
+            <div className="mt-80">
                 <Footer />
             </div>
         </div >
