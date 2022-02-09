@@ -4,7 +4,7 @@ import Footer from './footer'
 const Hero = () => {
     return (
         <div className="hero min-h-screen front-bg" >
-            <div class="hero-overlay bg-opacity-50"></div>
+            <div className="hero-overlay bg-opacity-50"></div>
             <div className="text-center hero-content mb-40 shadow-2xl card bg-base-200">
                 <div className="max-w-lg card-body">
                     <h1 className="mb-5 text-5xl font-bold">
