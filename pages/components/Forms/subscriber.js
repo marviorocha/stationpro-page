@@ -7,7 +7,7 @@ const Subscriber = () => {
 
             <form className="simple_form form form-vertical"
                 id="new_subscriber" action="https://stationpro.ipzmarketing.com/f/0L1r3Dj8nfA"
-                accept-charset="UTF-8" method="post">
+                method="post">
 
                 <div className="form-group email mb-3 required subscriber_email">
 
